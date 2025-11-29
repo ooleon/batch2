@@ -13,6 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>batch2</name>
     <description>Batch project for Spring Boot applying parallelism </description>
+
     <url/>
     <licenses>
         <license/>
